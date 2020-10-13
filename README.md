@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently working on ansible, kubernetes, vmware, linux and windows projects inside TBC. 
+
 <!--
 **larntz-tbc/larntz-tbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
